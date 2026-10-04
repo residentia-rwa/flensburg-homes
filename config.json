@@ -1,0 +1,11 @@
+{
+  "city": "Flensburg", "maxRentEur": 450, "rentBasis": "warm",
+  "delaySeconds": 10, "maxDetailsPerSource": 20, "maxSearchPages": 2,
+  "retainDays": 14,
+  "sources": {
+    "kleinanzeigen": {"enabled": false, "searchUrls": ["https://www.kleinanzeigen.de/s-wohnung-mieten/flensburg/1-zimmer--mieten/k0c203l714"]},
+    "immowelt": {"enabled": true, "searchUrls": ["https://www.immowelt.de/suche/mieten/wohnung/zimmer-1/schleswig-holstein/flensburg-24937/ad08de1"]},
+    "immoscout24": {"enabled": true, "searchUrls": ["https://www.immobilienscout24.de/Suche/de/schleswig-holstein/flensburg/1-zimmer-wohnung-mieten"]},
+    "wg_gesucht": {"enabled": true, "searchUrls": ["https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Flensburg.39.1.1.0.html"]}
+  }
+}
